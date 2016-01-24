@@ -1,4 +1,4 @@
-// Generated from /Users/tdk/Dev/alex/Alpha/src/alfa/core/runtime/meta/parser/Meta.g4 by ANTLR 4.5
+// Generated from /Users/tdk/Dev/NAlfa/src/main/java/alfa/core/runtime/meta/parser/Meta.g4 by ANTLR 4.5.1
 package alfa.core.runtime.meta.parser.gen;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
@@ -11,7 +11,7 @@ import org.antlr.v4.runtime.misc.*;
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
 public class MetaLexer extends Lexer {
-	static { RuntimeMetaData.checkVersion("4.5", RuntimeMetaData.VERSION); }
+	static { RuntimeMetaData.checkVersion("4.5.1", RuntimeMetaData.VERSION); }
 
 	protected static final DFA[] _decisionToDFA;
 	protected static final PredictionContextCache _sharedContextCache =

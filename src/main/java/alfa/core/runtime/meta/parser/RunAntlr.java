@@ -24,12 +24,12 @@ public class RunAntlr
             "-long-messages",
             "-visitor",
             "-lib",
-            baseDir + "/src/alfa/core/runtime/meta/parser",
+            baseDir + "/src/main/java/alfa/core/runtime/meta/parser",
             "-o", 
-            "src/alfa/core/runtime/meta/parser/gen",
+            "src/main/java/alfa/core/runtime/meta/parser/gen",
             "-package", 
             "alfa.core.runtime.meta.parser.gen",
-            baseDir + "/src/alfa/core/runtime/meta/parser/Meta.g4"
+            baseDir + "/src/main/java/alfa/core/runtime/meta/parser/Meta.g4"
         } );
     }
 }

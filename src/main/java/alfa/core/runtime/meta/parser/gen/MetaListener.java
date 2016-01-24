@@ -1,6 +1,5 @@
-// Generated from /Users/tdk/Dev/alex/Alpha/src/alfa/core/runtime/meta/parser/Meta.g4 by ANTLR 4.5
+// Generated from /Users/tdk/Dev/NAlfa/src/main/java/alfa/core/runtime/meta/parser/Meta.g4 by ANTLR 4.5.1
 package alfa.core.runtime.meta.parser.gen;
-import org.antlr.v4.runtime.misc.NotNull;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 
 /**
