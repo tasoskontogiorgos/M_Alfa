@@ -1,0 +1,28 @@
+b = null;
+c = b;
+%debug( "ON" );
+AAAA = 1111
+%debug( "OFF" );
+XXX = "asdas"
+a = true;
+
+%tasos3( 3.14 );
+%tasos3( 3.14 100 );
+
+%printVars(  )
+
+
+Map = { "A" : "RED"  "B" : "Green" }
+PairMap = { 1 _ 2 : "RED"  3 _ 4 : "Green" }
+
+AList = [ 1, 2, 3, "four" ];
+BList = [ 1, 2, 3, "four" ];
+
+
+
+ABool = 44 :: AList;
+
+SM = SelfModExample( Red, Alex )
+
+
+%printVars(  )
